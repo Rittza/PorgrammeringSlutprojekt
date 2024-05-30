@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gamer\\Documents\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj": {}
+    "C:\\Users\\elink\\OneDrive\\Dokument\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gamer\\Documents\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj": {
+    "C:\\Users\\elink\\OneDrive\\Dokument\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gamer\\Documents\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj",
+        "projectUniqueName": "C:\\Users\\elink\\OneDrive\\Dokument\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj",
         "projectName": "PorgrammeringSlutprojekt",
-        "projectPath": "C:\\Users\\Gamer\\Documents\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj",
-        "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gamer\\Documents\\GitHub\\PorgrammeringSlutprojekt\\obj\\",
+        "projectPath": "C:\\Users\\elink\\OneDrive\\Dokument\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj",
+        "packagesPath": "C:\\Users\\elink\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elink\\OneDrive\\Dokument\\GitHub\\PorgrammeringSlutprojekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\elink\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,12 +53,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.4, 8.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.4, 8.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.4, 8.0.4]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.4, 8.0.4]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.4.24267.66/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

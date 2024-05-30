@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "V4QrrAWXq01WEm7VEbjvOs34xLj91C2/HEFddPELJqXQcW2hjNIPCFMIAfv2YllRPw07fxaWnfbMSRgHWVv/Bw==",
+  "dgSpecHash": "KlU1qlyrFwQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gamer\\Documents\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\elink\\OneDrive\\Dokument\\GitHub\\PorgrammeringSlutprojekt\\PorgrammeringSlutprojekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elink\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.4\\microsoft.netcore.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\elink\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.4\\microsoft.windowsdesktop.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\elink\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.4\\microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512",
+    "C:\\Users\\elink\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.4\\microsoft.netcore.app.host.win-x64.8.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
