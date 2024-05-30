@@ -1,0 +1,15 @@
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\bin\Debug\net8.0\PorgrammeringSlutprojekt.exe
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\bin\Debug\net8.0\PorgrammeringSlutprojekt.deps.json
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\bin\Debug\net8.0\PorgrammeringSlutprojekt.runtimeconfig.json
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\bin\Debug\net8.0\PorgrammeringSlutprojekt.dll
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\bin\Debug\net8.0\PorgrammeringSlutprojekt.pdb
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\PorgrammeringSlutprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\PorgrammeringSlutprojekt.AssemblyInfoInputs.cache
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\PorgrammeringSlutprojekt.AssemblyInfo.cs
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\PorgrammeringSlutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\PorgrammeringSlutprojekt.sourcelink.json
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\PorgrammeringSlutprojekt.dll
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\refint\PorgrammeringSlutprojekt.dll
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\PorgrammeringSlutprojekt.pdb
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\PorgrammeringSlutprojekt.genruntimeconfig.cache
+C:\Users\elink\OneDrive\Dokument\GitHub\PorgrammeringSlutprojekt\obj\Debug\net8.0\ref\PorgrammeringSlutprojekt.dll
